@@ -10,7 +10,7 @@
  * License URI:       https://opensource.org/licenses/MIT
  * Text Domain:       WPS
  * Domain Path:       /cms
- * Version:           1.0.0
+ * Version:           1.0.1
  * Copyright:         © 2025 Alexis Bouhet
  */
 

@@ -1,4 +1,4 @@
-# WPS - Captcha
+# WPS - Captcha Wordpress plugin
 
 Very simplified captcha security added on Wordpress Login.
 This will prevent basic brute force attacks on the form.
